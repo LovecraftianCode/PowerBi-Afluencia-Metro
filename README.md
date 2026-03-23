@@ -1,6 +1,6 @@
 # Power BI Dashboard Afluencia del Metro
 
-<img width="1242" height="701" alt="dashboard_metro" src="https://github.com/user-attachments/assets/853d5ef7-fb51-4b7b-9716-8b7f0dce1e80" />
+<img width="1129" height="638" alt="Analisis metro" src="https://github.com/user-attachments/assets/a732b022-8e8b-418a-be39-171f8de75c64" />
 
 
 *Vista principal del dashboard de afluencia del Metro CDMX*
