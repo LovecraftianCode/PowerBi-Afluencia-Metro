@@ -1,4 +1,4 @@
-# Power BI Dashboard Afluencia del Metro
+# Power BI Dashboard Afluencia Metro CDMX
 
 <img width="1129" height="638" alt="Analisis metro" src="https://github.com/user-attachments/assets/a732b022-8e8b-418a-be39-171f8de75c64" />
 
